@@ -2,8 +2,12 @@
   "name": "todo-dapp",
   "version": "1.0.0",
   "description": "A simple todo app using smart contract.",
-  "main": "index.js",
-  "repository": "git@github.com:Sunarmik/todoDAppp.git",
+  "main": "truffle-config.js",
+  "repository": "git@github.com:Sunarmik/ethereum-todo-app.git",
   "author": "Sunarmik Das",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "dev": "",
+    "test": ""
+  }
 }
